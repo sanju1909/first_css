@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    background-color:red;
+    color: white;
+    height: 10vh;
+    width: 40vw;
+}
+.first.second{
+    background-color: black;
+    color: blue;
+}
+.first .third{
+    background-color: brown;
+}
+.aayush{
+    background-color: violet;
+    color: bisque;
+    font-size: 20px;
+}
+.test1{
+    color: red      ;
+}
+#test{
+    color: blue;
+}
